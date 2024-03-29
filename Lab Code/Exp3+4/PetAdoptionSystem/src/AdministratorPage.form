@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="AdministratorPage">
+  <grid id="27dc6" binding="mp" layout-manager="GridLayoutManager" row-count="6" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <font name="Century" size="20"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="882a9" class="javax.swing.JButton" binding="freezeUnfreezeUserAccountButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Freeze / Unfreeze User Account"/>
+        </properties>
+      </component>
+      <component id="76589" class="javax.swing.JButton" binding="submitRevisitRecordButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Submit Revisit Record"/>
+        </properties>
+      </component>
+      <component id="e09ed" class="javax.swing.JButton" binding="viewDatabaseButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="View Database"/>
+        </properties>
+      </component>
+      <component id="7ca88" class="javax.swing.JButton" binding="returnButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Return"/>
+        </properties>
+      </component>
+      <component id="2f9bd" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="22"/>
+          <text value="Welcome, Administrator!"/>
+        </properties>
+      </component>
+      <component id="44058" class="javax.swing.JButton" binding="examineAdoptApplicationButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Examine Adopt Application"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="DatabaseEntry">
+  <grid id="27dc6" binding="mp" layout-manager="GridLayoutManager" row-count="13" column-count="11" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="455"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="a7f51" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Table"/>
+        </properties>
+      </component>
+      <component id="2c48d" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Table"/>
+        </properties>
+      </component>
+      <component id="4f0dc" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Table"/>
+        </properties>
+      </component>
+      <component id="9c0f1" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Table"/>
+        </properties>
+      </component>
+      <component id="80bf2" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Table"/>
+        </properties>
+      </component>
+      <component id="ad05d" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Table"/>
+        </properties>
+      </component>
+      <component id="934bc" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Table"/>
+        </properties>
+      </component>
+      <component id="20771" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Table"/>
+        </properties>
+      </component>
+      <component id="af8fe" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="9" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="View"/>
+        </properties>
+      </component>
+      <component id="28a5e" class="javax.swing.JButton" binding="userInfoButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="UserInfo"/>
+        </properties>
+      </component>
+      <component id="6895c" class="javax.swing.JButton" binding="petButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Pet"/>
+        </properties>
+      </component>
+      <component id="8c737" class="javax.swing.JButton" binding="breedButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Breed"/>
+        </properties>
+      </component>
+      <component id="e6c47" class="javax.swing.JButton" binding="provinceButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Province"/>
+        </properties>
+      </component>
+      <component id="50c4a" class="javax.swing.JButton" binding="adoptApplicationButton" default-binding="true">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="AdoptApplication"/>
+        </properties>
+      </component>
+      <component id="5bfd7" class="javax.swing.JButton" binding="adoptInfoButton" default-binding="true">
+        <constraints>
+          <grid row="7" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="AdoptInfo"/>
+        </properties>
+      </component>
+      <component id="bd29d" class="javax.swing.JButton" binding="revisitRecordButton" default-binding="true">
+        <constraints>
+          <grid row="8" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="RevisitRecord"/>
+        </properties>
+      </component>
+      <component id="1d430" class="javax.swing.JButton" binding="adopter_petButton" default-binding="true">
+        <constraints>
+          <grid row="9" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="adopter_pet"/>
+        </properties>
+      </component>
+      <component id="d605" class="javax.swing.JButton" binding="cityButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="City"/>
+        </properties>
+      </component>
+      <component id="9cb9b" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="11" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Select a table / view to check"/>
+        </properties>
+      </component>
+      <component id="ab216" class="javax.swing.JButton" binding="returnbutton">
+        <constraints>
+          <grid row="12" column="0" row-span="1" col-span="11" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="Return"/>
+        </properties>
+      </component>
+      <component id="acd9e" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="11" column="0" row-span="1" col-span="11" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="   "/>
+        </properties>
+      </component>
+      <component id="3cdbf" class="javax.swing.JButton" binding="user_city_provinceButton">
+        <constraints>
+          <grid row="10" column="2" row-span="1" col-span="9" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="user_city_province"/>
+        </properties>
+      </component>
+      <component id="71219" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Century" size="20"/>
+          <text value="View"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

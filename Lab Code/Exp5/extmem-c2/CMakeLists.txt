@@ -1,0 +1,73 @@
+cmake_minimum_required(VERSION 3.26)
+project(extmem_c)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+
+add_executable(extmem_c
+        .idea/.gitignore
+        .idea/extmem-c.iml
+        .idea/modules.xml
+        .idea/vcs.xml
+        bin/Debug/extmem.exe
+        data/1.blk
+        data/10.blk
+        data/11.blk
+        data/12.blk
+        data/13.blk
+        data/14.blk
+        data/15.blk
+        data/16.blk
+        data/17.blk
+        data/18.blk
+        data/19.blk
+        data/2.blk
+        data/20.blk
+        data/21.blk
+        data/22.blk
+        data/23.blk
+        data/24.blk
+        data/25.blk
+        data/26.blk
+        data/27.blk
+        data/28.blk
+        data/29.blk
+        data/3.blk
+        data/30.blk
+        data/31.blk
+        data/32.blk
+        data/33.blk
+        data/34.blk
+        data/35.blk
+        data/36.blk
+        data/37.blk
+        data/38.blk
+        data/39.blk
+        data/4.blk
+        data/40.blk
+        data/41.blk
+        data/42.blk
+        data/43.blk
+        data/44.blk
+        data/45.blk
+        data/46.blk
+        data/47.blk
+        data/48.blk
+        data/5.blk
+        data/6.blk
+        data/7.blk
+        data/8.blk
+        data/9.blk
+        obj/Debug/extmem.o
+        obj/Debug/test.o
+        extmem.c
+        extmem.cbp
+        extmem.depend
+        extmem.h
+        extmem.layout
+        defines.h
+        AuxiliaryFunctions.c
+        CoreFunction.c
+        test.c
+        )

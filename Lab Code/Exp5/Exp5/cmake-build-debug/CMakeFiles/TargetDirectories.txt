@@ -1,0 +1,3 @@
+C:/Users/De0Faustrum/Desktop/SqlExp/Exp5/Exp5/cmake-build-debug/CMakeFiles/Exp5.dir
+C:/Users/De0Faustrum/Desktop/SqlExp/Exp5/Exp5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/De0Faustrum/Desktop/SqlExp/Exp5/Exp5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
